@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.UI", "FiveBlog.UI\FiveBlog.UI\FiveBlog.UI.csproj", "{95443B49-747B-4C8C-B169-CDB89EA34914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.UI.Client", "FiveBlog.UI\FiveBlog.UI.Client\FiveBlog.UI.Client.csproj", "{CBB48F90-A830-4397-9075-8FC009AD6312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.Api", "FiveBlog.Api\FiveBlog.Api.csproj", "{AABB1EA4-C05E-4013-98A8-CE888AF19BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.Domain", "FiveBlog.Domain\FiveBlog.Domain.csproj", "{577BD00F-8DC6-4CA0-B58F-F783642B7402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.Application", "FiveBlog.Application\FiveBlog.Application.csproj", "{C5E1E40C-7675-4340-A6D1-3639FB5F0608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveBlog.Infrastructure", "FiveBlog.Infrastructure\FiveBlog.Infrastructure.csproj", "{41C8F103-9267-4322-A2BC-025706D84810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95443B49-747B-4C8C-B169-CDB89EA34914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95443B49-747B-4C8C-B169-CDB89EA34914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95443B49-747B-4C8C-B169-CDB89EA34914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95443B49-747B-4C8C-B169-CDB89EA34914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB48F90-A830-4397-9075-8FC009AD6312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB48F90-A830-4397-9075-8FC009AD6312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB48F90-A830-4397-9075-8FC009AD6312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB48F90-A830-4397-9075-8FC009AD6312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABB1EA4-C05E-4013-98A8-CE888AF19BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABB1EA4-C05E-4013-98A8-CE888AF19BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABB1EA4-C05E-4013-98A8-CE888AF19BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABB1EA4-C05E-4013-98A8-CE888AF19BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577BD00F-8DC6-4CA0-B58F-F783642B7402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577BD00F-8DC6-4CA0-B58F-F783642B7402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577BD00F-8DC6-4CA0-B58F-F783642B7402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577BD00F-8DC6-4CA0-B58F-F783642B7402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E1E40C-7675-4340-A6D1-3639FB5F0608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E1E40C-7675-4340-A6D1-3639FB5F0608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E1E40C-7675-4340-A6D1-3639FB5F0608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E1E40C-7675-4340-A6D1-3639FB5F0608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C8F103-9267-4322-A2BC-025706D84810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C8F103-9267-4322-A2BC-025706D84810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C8F103-9267-4322-A2BC-025706D84810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C8F103-9267-4322-A2BC-025706D84810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE08368C-32E6-4108-9071-212ACB3BCD8A}
+	EndGlobalSection
+EndGlobal
